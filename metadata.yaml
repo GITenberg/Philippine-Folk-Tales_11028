@@ -1,0 +1,39 @@
+_repo: Philippine-Folk-Tales_11028
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Benedict, Laura Estelle Watson
+    birthdate: 1861
+    gutenberg_agent_id: '4755'
+    url: http://www.gutenberg.org/2009/agents/4755
+  - agent_name: Bayliss, Clara Kern
+    birthdate: 1848
+    gutenberg_agent_id: '4751'
+    url: http://www.gutenberg.org/2009/agents/4751
+  - agent_name: Maxfield, Berton L.
+    gutenberg_agent_id: '4752'
+    url: http://www.gutenberg.org/2009/agents/4752
+  - agent_name: Millington, W. H.
+    gutenberg_agent_id: '4753'
+    url: http://www.gutenberg.org/2009/agents/4753
+  - agent_name: Gardner, Fletcher
+    gutenberg_agent_id: '4754'
+    url: http://www.gutenberg.org/2009/agents/4754
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature, Philippine'
+- !lcsh 'Folklore -- Philippines'
+- !lcc 'GR'
+- !lcsh 'Tales -- Philippines'
+- GITenberg
+title: Philippine Folk-Tales
+url: http://www.gutenberg.org/ebooks/11028
